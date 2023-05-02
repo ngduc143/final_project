@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Category: MyString
+  Price: 1.5
+  Brand: MyString
+  Date: 2023-05-02 10:02:39
+
+two:
+  Category: MyString
+  Price: 1.5
+  Brand: MyString
+  Date: 2023-05-02 10:02:39

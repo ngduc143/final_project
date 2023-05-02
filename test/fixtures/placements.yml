@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Floor: 1
+  Product_Shelves: 1
+
+two:
+  Floor: 1
+  Product_Shelves: 1
